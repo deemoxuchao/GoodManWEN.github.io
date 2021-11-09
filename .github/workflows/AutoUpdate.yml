@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          repository: deemoxuchao/hsurich.github.io
+          repository: GoodManWEN/GoodManWEN.github.io
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
